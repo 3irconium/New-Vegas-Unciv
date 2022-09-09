@@ -15,7 +15,7 @@
       "Never appears as a Barbarian unit",
       "Can move immediately once bought",
       "[+1] Sight",
-      "Earn [100]% of killed [Military] unit's [Strength] as [Science]"
+      "[+30]% Strength <vs [Armored] units>"
     ]
   },
   {
@@ -36,7 +36,8 @@
       "Can move immediately once bought",
       "[+1] Sight",
       "[100]% chance to intercept air attacks",
-      "Earn [100]% of killed [Military] unit's [Strength] as [Science]"
+      "[+33]% Strength <vs cities> <when attacking>",
+      "[+40]% Strength <vs [Armored] units>"
     ]
   }
 ]
