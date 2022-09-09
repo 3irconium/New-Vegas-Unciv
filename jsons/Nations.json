@@ -31,7 +31,7 @@
       "Cannot build [Settler] units",
       "[+100]% [Gold] [in this city]",
       "[+100]% [Science] [in this city]",
-      "[+30]% great person generation [in capital]",
+      "[25]% [Production] [in capital] <when at war>",
       "Receive free [Great Engineer] when you discover [Engineering]"
     ],
     
