@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Casino Player",
+    "greatPersonPoints": {
+      "Great Artist": 3,
+      "Great Merchant": 3
+    },
+    "culture": 2,
+    "gold": 4,
+    "color": [205, 175, 135]
+  },
+  {
+    "name": "RobCo Scientist",
+    "greatPersonPoints": {
+      "Great Scientist": 3,
+      "Great Engineer": 3
+    },
+    "science": 5,
+    "production": 2,
+    "color": [90, 175, 185]
+  }
+]

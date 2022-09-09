@@ -1,0 +1,61 @@
+game.png
+size: 450, 650
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+NationIcons/New Vegas
+  rotate: false
+  xy: 0, 450
+  size: 100, 100
+  orig: 100, 100
+  offset: 0,0
+  index: -1
+LeaderIcons/Robert Edwin House
+  rotate: false
+  xy: 0, 0
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+BuildingIcons/Lucky 38 Casino
+  rotate: false
+  xy: 250, 250
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/RobCo Industries
+  rotate: false
+  xy: 250, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Securitron Mark I
+  rotate: false
+  xy: 0, 250
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Securitron Mark II
+  rotate: false
+  xy: 0, 250
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TileSets/5Hex/Units/Securitron Mark I
+  rotate: false
+  xy: 407, 495
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+TileSets/5Hex/Units/Securitron Mark II
+  rotate: false
+  xy: 345, 501
+  size: 47, 48
+  orig: 47, 48
+  offset: 0, 0
+  index: -1
