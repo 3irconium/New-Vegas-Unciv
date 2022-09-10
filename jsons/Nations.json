@@ -36,7 +36,13 @@
     ],
     
     "cities": [
-      "New Vegas"
+      "New Vegas",
+      "Freeside",
+      "North Vegas",
+      "Westside",
+      "South Vegas",
+      "East Vegas",
+      "West Vegas"
     ],
     "spyNames": [
       "Cachino",
